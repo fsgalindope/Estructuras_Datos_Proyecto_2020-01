@@ -15,9 +15,7 @@ public class Proyecto_20201 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("yo sebastian modifique");
-        System.out.println("hola");
-        System.out.println("ejemplo");
+       System.out.println("sebastian");
     }
-    // guardar (crt+s)+ comment to sumit + push origen
+    
 }
