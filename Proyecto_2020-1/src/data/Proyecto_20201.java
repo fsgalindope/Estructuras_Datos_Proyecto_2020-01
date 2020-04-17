@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto_2020.pkg1;
+package data;
 
 /**
  *
@@ -15,16 +15,6 @@ public class Proyecto_20201 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola mundo");
-        System.out.println("Hola Fabian");
-        System.out.println("Hola Fabian");
-        System.out.println("Hola David");
-        System.out.println("Hola David");
-        
-        
-        
-        
-    
         
     }
     
