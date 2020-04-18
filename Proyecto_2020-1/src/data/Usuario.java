@@ -28,6 +28,25 @@ public class Usuario {
     public int getCuenta() {
         return cuenta;
     }
-    
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setUsuario(String usuario) {
+        this.usuario = usuario;
+    }
+
+    public void setContraseña(String contraseña) {
+        this.contraseña = contraseña;
+    }
+
+    public void setCuenta(int cuenta) {
+        this.cuenta = cuenta;
+    }
     
 }
