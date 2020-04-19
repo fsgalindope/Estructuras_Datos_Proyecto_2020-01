@@ -1,0 +1,1 @@
+Esta rama se usa para combinar todos nuestros progresos por separado, si al hacer esto todo funciona bien, la rama se combina con master.
