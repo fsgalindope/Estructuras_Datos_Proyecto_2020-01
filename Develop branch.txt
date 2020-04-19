@@ -1,1 +1,3 @@
 Esta rama se usa para combinar todos nuestros progresos por separado, si al hacer esto todo funciona bien, la rama se combina con master.
+
+- Se actualizó develop después de crear las 3 ramas.
